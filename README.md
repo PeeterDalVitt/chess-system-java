@@ -1,5 +1,5 @@
 # ♟️ Chess System in Java  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://github.com/PeeterDalVitt/chess-system-java/blob/main/LICENSE))
 
 A simple console-based chess game developed in Java, focused on practicing **Object-Oriented Programming (OOP)** principles.
 
